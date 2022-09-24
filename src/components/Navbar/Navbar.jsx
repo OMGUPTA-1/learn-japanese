@@ -16,7 +16,7 @@ const Navbar = () => {
                         color: theme.palette.text.primary,
                     }}
                 >
-                    <Typography variant="h5">Go Nihongo</Typography>
+                    <Typography variant="h5">Learn Japanese</Typography>
                 </Link>
                 <Box display="flex" flexGrow={1} />
                 <Box
